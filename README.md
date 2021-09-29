@@ -6,7 +6,7 @@ This is a simple Quiz app, where users can take part in a quiz and make progress
 ## Project description
 Name: OnlineQuiz <br>
 Programming Language: Java <br>
-Platfrom: Android application <br>
+Platform: Android application <br>
 Project No: 9 <br>
 Year: 2018
 
